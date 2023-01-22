@@ -1,7 +1,7 @@
 # Topsis Implimentation by Gurtaran
 It takes a csv file, weigths of all columns, impacts as 1 for positive and -1 for negative and output file name as an input and give the final topsis implimented file out.
 
-##This package is uploaded on pypi.org
+## This package is uploaded on pypi.org
 ```https://pypi.org/project/topsis-gs-102003220/1.0.0/```
 
 ## Installation
