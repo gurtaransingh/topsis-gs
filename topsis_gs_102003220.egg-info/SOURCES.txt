@@ -1,0 +1,11 @@
+LICENCE
+MANIFEST.in
+README.md
+setup.py
+topsis_gs_102003220.egg-info/PKG-INFO
+topsis_gs_102003220.egg-info/SOURCES.txt
+topsis_gs_102003220.egg-info/dependency_links.txt
+topsis_gs_102003220.egg-info/entry_points.txt
+topsis_gs_102003220.egg-info/top_level.txt
+topsisgs/__init__.py
+topsisgs/__main__.py
